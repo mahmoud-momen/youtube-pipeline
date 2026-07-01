@@ -5,3 +5,4 @@ data/youtube_pipeline.db
 __pycache__/
 *.pyc
 .venv/
+data/processed/
